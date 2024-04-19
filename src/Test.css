@@ -1,0 +1,41 @@
+.cta {
+  background-image: url(../src/assets/images/banner.jpg);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.footform::placeholder {
+  font-size: 20px;
+}
+.logbtn,
+.logbtn a,
+.socialanc {
+  background-color: #fff;
+  color: black;
+  transition: all 0.7s;
+}
+.logbtn:hover,
+.logbtn:hover a,
+.abbtn:hover,
+.sendbtn:hover,
+.socialanc:hover,
+.btnnew {
+  background-color: blue;
+  color: #fff;
+}
+.readmorebtn:hover,
+.abbtn,
+.secf,
+.btnnew:hover {
+  background-color: #212120;
+  color: #fff;
+  transition: all 0.7s;
+}
+.iconhover:hover {
+  color: blue;
+}
+@media (min-width: 768px) {
+}
+@media (min-width: 992px) {
+}
